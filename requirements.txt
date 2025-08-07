@@ -1,4 +1,5 @@
 Flask==2.3.3
 openai
 PyPDF2
+gunicorn
 # Add any other libraries you use
