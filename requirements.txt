@@ -3,4 +3,6 @@ openai
 PyMuPDF
 PyPDF2
 gunicorn
+google-generativeai
+
 # Add any other libraries you use
